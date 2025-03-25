@@ -1,2 +1,115 @@
 <?xml version='1.0' encoding='utf-8'?>
-<questions><category name="PERCEPTION"><question>Do you think I've ever been in love?</question><question>What about me is the most strange or unfamiliar?</question><question>Do you think I've ever had my heart broken?</question><question>What do you think I'd splurge on?</question><question>What do you think my major is?</question><question>What do you think I'm going to do in the future (work/employment)?</question><question>What was your first impression of me?</question><question>Do you think I was popular in high school?</question><question>On a scale of 1 - 10, how messy do you think my car is?</question><question>Do you think I like hot cheetos?</question><question>Do you think I like to read?</question><question>Do you think I'm in Greek Life?</question><question>Do you think I have a sibling? Older or younger?</question><question>Who do you think my favorite artist is?</question><question>Where do you think I grew up?</question><question>What do you think my favorite Starbucks drink is?</question><question>Do you think I like Taco Bell?</question></category><category name="CONNECTION"><question>What's the last thing you lied about?</question><question>What is your most defining characteristic?</question><question>Are you lying to yourself about anything?</question><question>How are you, really?</question><question>What is your least favorite personality trait in a person?</question><question>When is the last time you felt lucky to be you?</question><question>Which one of your parent's personality traits do you want to keep/ let go of?</question><question>What would you tell your younger self and what have you learned from this lesson?</question><question>What's the worst pain you've ever been in that wasn't physical?</question><question>What's your dad's name and one thing about him?</question><question>What's the most unexplainable thing that has ever happened to you?</question><question>What would your younger self not believe about your life today?</question><question>What non-domestic animal describes you and why?</question><question>What are you still trying to prove to yourself?</question><question>What is your favorite adjective with which to be described?</question><question>When is the last time you cried?</question><question>If you could instill one personality trait in your kid, what would it be?</question><question>What's the hardest part about dating you?</question><question>What's your favorite song lyric that you can think of off the top of your head?</question><question>Think of someone that you admire. What made you think about them specifically?</question><question>What's the biggest mistake you've made?</question><question>What's a phrase that you say that you wish you would stop saying?</question></category><category name="REFLECTION"><question>Based on what you learned about me what would you recommend I read?</question><question>What about me surprised you?</question><question>Based on what you know about me, do you have a Netflix recommendation?</question><question>What do you think our most important similarities are?</question><question>What do you think my superpower is?</question><question>What do you think is one thing I could do that would drastically improve my life?</question><question>What would be the perfect gift for me?</question><question>How would you describe me to a stranger?</question><question>What do I need to hear right now?</question><question>Based on what you've learned about me, does my social media portray me accurately?</question><question>What is a lesson you will take away from our conversation?</question><question>What can I help you with?</question><question>What do you think do I fear the most?</question><question>Where am I most qualified to give advice about?</question><question>What about me is the hardest for you to understand?</question><question>If we were a band what would be our name?</question><question>Admit something</question><question>What parts of yourself do you see in me?</question><question>How does one earn your vulnerability?</question><question>Dare your partner to do something out of their comfort zone next week.</question><question>What do you recommend I should let go of?</question><question>What has this conversation taught you about yourself?</question><question>What do you think my defining characteristic is?</question><question>Why do you think we met?</question><question>What question were you most afraid to answer?</question><question>When this game is over, what will be something you will remember about me?</question><question>What do you think my weakness is?</question><question>How do our personalities compliment each other?</question><question>What would make you feel closer to me?</question><question>What do you think I should know about myself that perhaps I'm unaware of?</question><question>What do you admire most about me?</question><question>In one word, describe how you feel right now.</question><question>Do you believe everyone has a calling? If so, do you think I've found mine?</question><question>What do you think my defining characteristic is?</question><question>What can we create together?</question><question>What answer of mine made you light up?</question><question>What's the most attractive quality about me that isn't physical?</question><question>Based on what you learned re-write each other's dating app bios. (30 sec)</question></category><category name="WILDCARD"><question>Based on what you learned re-write each other's dating app bios. (30 sec)</question><question>DRAW A PICTURE TOGETHER (30 SECS)</question><question>LOOK INTO EACH OTHER'S EYES FOR 30 SECONDS. WHAT DID YOU NOTICE?</question><question>WRITE A MESSAGE TO EACH OTHER AND GIVE IT TO EACH OTHER. OPEN IT ONCE YOU HAVE LEFT.</question><question>THINK OF YOUR FAVOURITE CHILDHOOD TV SHOW OF ALL TIME, ON THE COUNT OF THREE SAY IT OUTLOUD (BOTH PLAYERS)</question><question>TAKE A SELFIE TOGETHER</question><question>STARING CONTEST. FIRST-PERSON TO BLINK MUST REVEAL A PERSONAL PROBLEM AND ASK THE OTHER FOR ADVICE ON HOW THEY MIGHT HANDLE IT.</question><question>CREATE YOUR OWN QUESTION. ANYTHING. MAKE IT COUNT.</question><question>TELL THE OTHER PERSON TO CLOSE THEIR EYES AND TO KEEP THEM CLOSED. (WAIT 10 SECONDS. DESCRIBE TO THEM IN DETAIL YOUR FAVOURITE MEMORY OF THEM/ TWO OF YOU)</question><question>PRESS SHUFFLE ON YOUR MUSIC LIBRARY. EXPLAIN THE FIRST SONG THAT COMES UP!</question><question>LET GO OF YOUR ATTACHMENT TO THE OUTCOME wildcard character - BOTH PLAYERS SHARE SOMETHING YOU'RE MOST GRATEFUL FOR IN THIS CURRENT MOMENT.</question><question>DRAW YOUR CURRENT FEELINGS THEN COMPARE.</question><question>SHOW THE FIRST PHOTO IN YOUR CAMERA ROLL. EXPLAIN.</question><question>THINK OF SOMETHING THAT YOU DISLIKE THAT MOST PEOPLE DON'T. ON THE COUNT OF 3 SAY IT OUTLOUD.</question><question>SHARE A FAVOURITE MEMORY OF YOURS. COMPARE. (BOTH)</question><question>SING YOUR FAVOURITE SONG LYRICS YOU CAN THINK OF OFF THE TOP OF YOUR HEAD. (BOTH)</question><question>HOW CAN I ADD 1% MORE HAPPINESS IN YOUR LIFE?</question></category></questions>
+<questions>
+    <category name="PERCEPTION">
+        <question>Penses-tu que j’aie déjà été vraiment amoureux(se) ?</question>
+        <question>Qu’est-ce qui te semble le plus atypique chez moi ?</question>
+        <question>Crois-tu que j’aie déjà eu le cœur brisé ?</question>
+        <question>Sur quoi penses-tu que je serais prêt(e) à dépenser une grosse somme sans regret ?</question>
+        <question>D’après toi, quel genre de job me conviendrait le mieux ?</question>
+        <question>Où me vois-tu dans 5 ans, pro ou perso ?</question>
+        <question>Quelle a été ta première impression de moi ?</question>
+        <question>Penses-tu que j’étais du genre fêtard(e) ou plutôt discret(e) plus jeune ?</question>
+        <question>Sur une échelle de 1 à 10, à quel point crois-tu que mon appart est en désordre ?</question>
+        <question>Selon toi, suis-je plutôt sucré ou salé ?</question>
+        <question>Penses-tu que je lis souvent ou plutôt rarement ?</question>
+        <question>Comment décrirais-tu mon goût musical en un mot ?</question>
+        <question>Où penses-tu que j’aimerais partir en voyage en ce moment ?</question>
+        <question>Si je devais commander un café ou un cocktail, lequel ce serait ?</question>
+        <question>À ton avis, quel est mon péché mignon niveau bouffe ?</question>
+        <question>Si je devais choisir entre un week-end en nature ou en ville, tu penses que je prendrais quoi ?</question>
+        <question>Si je devais me lancer dans une activité artistique, laquelle ce serait ?</question>
+        <question>Selon toi, suis-je plutôt du genre à planifier mes vacances longtemps à l’avance ou à partir sur un coup de tête ?</question>
+        <question>Quel trait de caractère me définit le mieux, d’après toi ?</question>
+        <question>Si je gagnais une grosse somme d’argent, quelle serait ma première folie ?</question>
+        <question>À ton avis, quel est mon plus gros guilty pleasure ?</question>
+    </category>
+    <category name="RÉFLEXION">
+        <question>Quelle est la dernière chose sur laquelle tu as menti ?</question>
+        <question>Quel est ton trait de caractère le plus marquant ?</question>
+        <question>Y a-t-il quelque chose sur lequel tu te mens à toi-même ?</question>
+        <question>Comment vas-tu, vraiment ?</question>
+        <question>Quel trait de personnalité as-tu le plus de mal à supporter chez les autres ?</question>
+        <question>Quel est le dernier moment où tu t’es senti(e) chanceux(se) d’être toi ?</question>
+        <question>Quel trait de caractère transmis par ton entourage aimerais-tu garder ou au contraire laisser derrière toi ?</question>
+        <question>Si tu pouvais parler à ton "toi" plus jeune, que lui dirais-tu et quelle leçon retires-tu de tout ça ?</question>
+        <question>Quelle est la pire douleur émotionnelle que tu aies vécue ?</question>
+        <question>Si tu devais raconter une chose marquante sur quelqu’un qui a compté pour toi, ce serait quoi ?</question>
+        <question>Quel est l’événement le plus étrange ou inexpliqué qui te soit arrivé ?</question>
+        <question>Qu’est-ce que ton "toi" plus jeune aurait du mal à croire sur ta vie actuelle ?</question>
+        <question>Si tu devais te comparer à un animal sauvage, lequel serait-ce et pourquoi ?</question>
+        <question>Qu’est-ce que tu essaies encore de prouver à toi-même ?</question>
+        <question>Quel est l’adjectif que tu aimes le plus entendre à ton sujet ?</question>
+        <question>Quelle est la dernière fois où tu as pleuré ?</question>
+        <question>Si tu pouvais transmettre une seule qualité à ton enfant, laquelle choisirais-tu ?</question>
+        <question>Qu’est-ce qui rend le fait de sortir avec toi parfois compliqué ?</question>
+        <question>Quelle est la première phrase de chanson qui te vient en tête ?</question>
+        <question>Pense à une personne que tu admires. Pourquoi cette personne précisément ?</question>
+        <question>Quelle est la plus grosse erreur que tu aies faite ?</question>
+        <question>Quelle expression dis-tu trop souvent et que tu aimerais arrêter d’utiliser ?</question>
+        <question>Y a-t-il un moment de ta vie que tu aimerais revivre une seconde fois, juste pour le plaisir ?</question>
+        <question>Quelle croyance ou certitude que tu avais il y a 10 ans a complètement changé aujourd’hui ?</question>
+        <question>Quelle est la plus grande peur que tu as réussi à surmonter ?</question>
+        <question>Si quelqu’un devait écrire un livre sur toi, quel en serait le titre ?</question>
+        <question>Y a-t-il un souvenir anodin qui, pour une raison ou une autre, t’a profondément marqué(e) ?</question>
+    </category>
+    <category name="CONNEXION">
+        <question>Si tu devais me recommander un livre qui me correspond, lequel choisirais-tu ?</question>
+        <question>Qu’est-ce qui t’a surpris chez moi quand on s’est connu ?</question>
+        <question>Quel film ou série me recommanderais-tu en fonction de ce que tu sais de moi ?</question>
+        <question>Selon toi, qu’est-ce qui nous rapproche le plus en tant qu’amis ?</question>
+        <question>Si tu devais me donner un "superpouvoir", lequel serait-il ?</question>
+        <question>Quelle habitude ou changement pourrait vraiment améliorer ma vie selon toi ?</question>
+        <question>Quel serait le cadeau idéal pour moi ?</question>
+        <question>Si tu devais me présenter à quelqu’un en une phrase, que dirais-tu ?</question>
+        <question>D’après toi, quel conseil ai-je besoin d’entendre en ce moment ?</question>
+        <question>Est-ce que ma façon d’être sur les réseaux sociaux correspond à la personne que tu connais ?</question>
+        <question>Quelle est la plus grande leçon que tu as retenue de notre amitié ?</question>
+        <question>Sur quoi puis-je vraiment t’aider dans la vie ?</question>
+        <question>Quelle est, selon toi, ma plus grande peur ?</question>
+        <question>Sur quel sujet pourrais-je donner des conseils sans problème ?</question>
+        <question>Y a-t-il quelque chose chez moi que tu as du mal à comprendre ?</question>
+        <question>Si on devait monter un projet ou un business ensemble, ce serait quoi ?</question>
+        <question>Dis-moi un truc que tu n’as jamais osé me dire.</question>
+        <question>Quelles similitudes vois-tu entre nous ?</question>
+        <question>Qu’est-ce qui fait que tu te confies facilement à moi (ou pas) ?</question>
+        <question>Propose-moi un défi à relever cette semaine.</question>
+        <question>Qu’est-ce que je devrais lâcher prise ou arrêter de me prendre la tête avec ?</question>
+        <question>Parmi les questions posées dans les premières catégories, laquelle t’a le plus marqué et pourquoi ?</question>
+        <question>Quelle réponse donnée par quelqu’un d’autre t’a le plus surpris pendant ce jeu ?</question>
+        <question>Y a-t-il une question que tu aurais aimé voir dans ce jeu mais qui n’a pas été posée ?</question>
+        <question>Pourquoi penses-tu qu’on s’entend aussi bien ?</question>
+        <question>Y a-t-il une question à laquelle tu as hésité à répondre ?</question>
+        <question>Quand tu penseras à moi dans quelques années, qu’est-ce que tu retiendras de notre amitié ?</question>
+        <question>Quel est mon plus gros point faible selon toi ?</question>
+        <question>Comment nos personnalités se complètent-elles ?</question>
+        <question>Qu’est-ce qui renforcerait encore plus notre amitié ?</question>
+        <question>Selon toi, qu’est-ce que je devrais savoir sur moi mais que je ne vois pas ?</question>
+        <question>Quelle est la chose que tu admires le plus chez moi ?</question>
+        <question>En un mot, comment définirais-tu notre amitié ?</question>
+        <question>Penses-tu que j’ai trouvé ce qui me passionne dans la vie ?</question>
+        <question>Qu’est-ce qu’on devrait absolument faire ensemble au moins une fois dans notre vie ?</question>
+        <question>Quelle est ma qualité la plus attirante qui n’a rien à voir avec le physique ?</question>
+        <question>Si on devait organiser un road trip entre potes, quelle serait notre destination idéale ?</question>
+        <question>Si je devais réécrire ma bio Tinder selon toi, qu’est-ce que tu mettrais ?</question>
+        <question>Quelle chanson décrit le mieux notre amitié ?</question>
+    </category>
+    <category name="SPECIAL">
+        <question>Sur la base de ce que tu as appris de moi, réécris la bio de mon profil de rencontre. (30 secondes)</question>
+        <question>Dessinez un dessin ensemble. (30 secondes)</question>
+        <question>Regardez-vous dans les yeux pendant 30 secondes. Qu’avez-vous remarqué ?</question>
+        <question>Écrivez un message l'un à l'autre et donnez-le-vous. Ouvrez-le une fois que vous êtes partis.</question>
+        <question>Pense à ton émission de télé préférée quand tu étais enfant. À trois, dites-la à haute voix en même temps.</question>
+        <question>Prenez un selfie ensemble.</question>
+        <question>Concours de regard. La première personne à cligner des yeux doit révéler un problème personnel et demander à l'autre comment elle pourrait le gérer.</question>
+        <question>Créez votre propre question. N’importe quoi. Faites-la compter.</question>
+        <question>Demande à l’autre de fermer les yeux et de les garder fermés. (Attendez 10 secondes). Décris-lui en détail ton souvenir préféré de vous deux.</question>
+        <question>Appuie sur "aléatoire" dans ta bibliothèque musicale. Explique la première chanson qui apparaît !</question>
+        <question>Lâche prise de l’issue. Partagez tous les deux ce pourquoi vous êtes le plus reconnaissants en ce moment précis.</question>
+        <question>Dessinez vos sentiments actuels, puis comparez vos dessins.</question>
+        <question>Montrez la première photo dans votre galerie. Expliquez-la.</question>
+        <question>Pense à quelque chose que tu détestes, mais que la plupart des gens aiment. À trois, dites-le à haute voix en même temps.</question>
+        <question>Partagez un souvenir que vous aimez particulièrement. Comparez vos versions.</question>
+        <question>Chantez les paroles de votre chanson préférée, celles qui vous viennent à l’esprit tout de suite.</question>
+        <question>Comment puis-je ajouter 1% de bonheur de plus dans ta vie ?</question>
+    </category>
+</questions>
